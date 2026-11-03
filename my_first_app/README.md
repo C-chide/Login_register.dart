@@ -1,4 +1,3 @@
-# Login_register.dart
 # Simple Flutter Auth App
 
 A beginner-friendly login and registration UI built with proper screen navigation for our Flutter class.
@@ -6,7 +5,7 @@ A beginner-friendly login and registration UI built with proper screen navigatio
 ## Screenshots
 
 ### Login Screen
-![Login Screen](assets/login.png)
+![Login Screen](my_first_app/assets/login.png)
 
 ### Register Screen
-![Register Screen](assets/register.png)
+![Register Screen](my_first_app/assets/register.png)
